@@ -8,3 +8,5 @@ It uses the [ST3215 serial bus servo](https://www.dfrobot.com/product-2962.html)
 
 You can also add an optional [endoscope camera](https://www.dfrobot.com/product-2328.html) mount so you can see what it's working on
 ![photo](plateholder.jpg)
+
+To help the camera see what's in the wells, the 96-well plate is held on a [cheap USB light table](https://amzn.to/47X2aJM). The STL file for the frame that holds the 96-well plate on the light table is [here](96well_plateholder.stl). 
